@@ -1,3 +1,6 @@
+##Zoho Practice App
+This app gets you the trivia details about all the countries around the world. Weather report and forecast is also included for the current location of the device.
+
 
 ## The App has follows
 1. Activity, Responsive Screen (Tablet)
